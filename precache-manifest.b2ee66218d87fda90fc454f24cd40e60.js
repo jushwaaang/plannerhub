@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f833f5e0608676f4b45a417e5251bd1d",
+    "revision": "ae3fdaeb8bfbd69371bf7c4dd3805f8c",
     "url": "/plannerhub/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/plannerhub/static/css/2.d7f532f3.chunk.css"
   },
   {
-    "revision": "40ec5858732c74ee4dc5",
+    "revision": "6b4d48063bbd879114b5",
     "url": "/plannerhub/static/css/main.1e288b61.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/plannerhub/static/js/2.5f15c7af.chunk.js"
   },
   {
-    "revision": "40ec5858732c74ee4dc5",
-    "url": "/plannerhub/static/js/main.270cdd7d.chunk.js"
+    "revision": "6b4d48063bbd879114b5",
+    "url": "/plannerhub/static/js/main.88427452.chunk.js"
   },
   {
     "revision": "e46fd2eeec0ac67214b7",

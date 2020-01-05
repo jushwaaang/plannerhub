@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/plannerhub/static/css/main.1e288b61.chunk.css",
-    "main.js": "/plannerhub/static/js/main.270cdd7d.chunk.js",
-    "main.js.map": "/plannerhub/static/js/main.270cdd7d.chunk.js.map",
+    "main.js": "/plannerhub/static/js/main.88427452.chunk.js",
+    "main.js.map": "/plannerhub/static/js/main.88427452.chunk.js.map",
     "runtime-main.js": "/plannerhub/static/js/runtime-main.0a6ef805.js",
     "runtime-main.js.map": "/plannerhub/static/js/runtime-main.0a6ef805.js.map",
     "static/css/2.d7f532f3.chunk.css": "/plannerhub/static/css/2.d7f532f3.chunk.css",
     "static/js/2.5f15c7af.chunk.js": "/plannerhub/static/js/2.5f15c7af.chunk.js",
     "static/js/2.5f15c7af.chunk.js.map": "/plannerhub/static/js/2.5f15c7af.chunk.js.map",
     "index.html": "/plannerhub/index.html",
-    "precache-manifest.3104288eb436f2dde2d3a0ebf6ee489e.js": "/plannerhub/precache-manifest.3104288eb436f2dde2d3a0ebf6ee489e.js",
+    "precache-manifest.b2ee66218d87fda90fc454f24cd40e60.js": "/plannerhub/precache-manifest.b2ee66218d87fda90fc454f24cd40e60.js",
     "service-worker.js": "/plannerhub/service-worker.js",
     "static/css/2.d7f532f3.chunk.css.map": "/plannerhub/static/css/2.d7f532f3.chunk.css.map",
     "static/css/main.1e288b61.chunk.css.map": "/plannerhub/static/css/main.1e288b61.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.d7f532f3.chunk.css",
     "static/js/2.5f15c7af.chunk.js",
     "static/css/main.1e288b61.chunk.css",
-    "static/js/main.270cdd7d.chunk.js"
+    "static/js/main.88427452.chunk.js"
   ]
 }
